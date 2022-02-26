@@ -34,7 +34,7 @@ To **Raspberry Pi** θα χρησιμοποιηθεί ως εξυπηρετητ�
 | ----------- | ----------- | ----------- | 
 | Raspberry Pi 4 Model B |	<div align="center">1 </div> |	<div align="right"> 70,0</div> |
 | Analog AC Current Sensor (SEN0211) |	<div align="center">1  </div> |	<div align="right"> 27,0</div> |
-|	ESP32 with Battery Holder	|	<div align="center">1 </div> |	<div align="right"> 14,0> </div> |
+|	ESP32 with Battery Holder	|	<div align="center">1 </div> |	<div align="right"> 14,0 </div> |
 |	Καλώδιο USB to micro-USB	|	<div align="center">1 </div> |	<div align="right"> 7,0</div> |
 |	Κουτί διακλάδωσης	|	<div align="center">1 </div> |	<div align="right"> 2,0</div> |
 | <div align="right">**ΣΥΝΟΛΟ** </div> ||	 	 	<div align="right"> **120,0**</div> |
