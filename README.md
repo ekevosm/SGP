@@ -1,4 +1,4 @@
-<img src="logo_SGP.jpg" width=200 align=right>
+<img src="logo_SGP.jpg" width=150 align=right>
 
 # SGP - Smart Green Plug
 
