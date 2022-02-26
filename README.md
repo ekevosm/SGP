@@ -1,4 +1,5 @@
 <img src="logo_SGP.jpg" width=100 align=right>
+
 # SGP - Smart Green Plug
 
 ## ΣΚΟΠΟΣ ΤΟΥ ΕΡΓΟΥ
